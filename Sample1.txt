@@ -1,1 +1,2 @@
 Sample of Git
+this is mid sem practicals
